@@ -8,8 +8,8 @@ I am a passionate web developer with experience in building responsive, user-fri
 
 - **Location:** Kushtia, Dhaka, Bangladesh
 - **Email:** md.likhonislam2x@gmail.com
-- **LinkedIn:** [(https://www.linkedin.com/in/likhon-islam-919438255/)]
-- **Portfolio:** (https://friends-adda.netlify.app/)
+- **LinkedIn:** https://www.linkedin.com/in/likhon-islam-919438255/
+- **Portfolio:** https://likhonislam.me
 
 ## 🛠️ Skills
 
@@ -32,14 +32,14 @@ I am a passionate web developer with experience in building responsive, user-fri
 
 ## 📚 Education
 
-**Diploma In Engineering** - [Kushtia Polytechnic Institute]
+**Diploma In Engineering** - Kushtia Polytechnic Institute
 
 ## 🏆 Projects
 
 ### [Chat-Web-Application]
 - **Description:** [I make this chat application to Connect instantly with friends and colleagues. Enjoy seamless communication and stay in touch with ease.]
 - **Technologies:** [React(v17), Redux-toolkit, RTK Query, Tailwind, Node js, Express js, Mongo DB, Express validator, JWT, Nodemailer, Socket-io, Socket-io-client]
-- **Repo:** [Github Repositories (https://github.com/likhon122/Chat-app)]
+- **Repo:** https://github.com/likhon122/Chat-app
 
 
 ## 📫 How to Reach Me
