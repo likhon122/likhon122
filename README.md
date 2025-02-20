@@ -8,8 +8,8 @@ I am a passionate web developer with experience in building responsive, user-fri
 
 - **Location:** Kushtia, Dhaka, Bangladesh
 - **Email:** md.likhonislam2x@gmail.com
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/likhon-islam-919438255/)]
-- **Portfolio:** [[Your Portfolio Website](https://friends-adda.netlify.app/)]
+- **LinkedIn:** [Linkedin Profile(https://www.linkedin.com/in/likhon-islam-919438255/)]
+- **Portfolio:** [Portfolio Website(https://friends-adda.netlify.app/)]
 
 ## 🛠️ Skills
 
@@ -39,15 +39,15 @@ I am a passionate web developer with experience in building responsive, user-fri
 ### [Chat-Web-Application]
 - **Description:** [I make this chat application to Connect instantly with friends and colleagues. Enjoy seamless communication and stay in touch with ease.]
 - **Technologies:** [React(v17), Redux-toolkit, RTK Query, Tailwind, Node js, Express js, Mongo DB, Express validator, JWT, Nodemailer, Socket-io, Socket-io-client]
-- **Repo:** [[Link to GitHub repository](https://github.com/likhon122/Chat-app)]
+- **Repo:** [Github Repositories (https://github.com/likhon122/Chat-app)]
 
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me via email at [md.likhonislam2x@gmail.com] or connect with me on [[LinkedIn Profile Link](https://www.linkedin.com/in/likhon-islam-919438255/)] or Fiverr [[Fiverr profile link](https://www.fiverr.com/users/fahim_hossen1)]. I'm open to freelance opportunities, collaborations, or just a friendly chat!
+Feel free to reach out to me via email at [md.likhonislam2x@gmail.com] or connect with me on [Linkedin Profile (https://www.linkedin.com/in/likhon-islam-919438255/)] or Fiverr [Fiverr Profile (https://www.fiverr.com/users/fahim_hossen1)]. I'm open to freelance opportunities, collaborations, or just a friendly chat!
 
 ---
 
 ## 👀 Check out my work!
-- **GitHub Repositories:** [[Link to your GitHub repositories](https://github.com/likhon122?tab=repositories)]
+- **GitHub Repositories:** [Github Repositories (https://github.com/likhon122?tab=repositories)]
 
