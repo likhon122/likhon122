@@ -8,8 +8,8 @@ I am a passionate web developer with experience in building responsive, user-fri
 
 - **Location:** Kushtia, Dhaka, Bangladesh
 - **Email:** md.likhonislam2x@gmail.com
-- **LinkedIn:** [Linkedin Profile(https://www.linkedin.com/in/likhon-islam-919438255/)]
-- **Portfolio:** [Portfolio Website(https://friends-adda.netlify.app/)]
+- **LinkedIn:** [(https://www.linkedin.com/in/likhon-islam-919438255/)]
+- **Portfolio:** (https://friends-adda.netlify.app/)
 
 ## 🛠️ Skills
 
