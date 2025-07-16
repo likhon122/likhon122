@@ -19,16 +19,13 @@ I am a passionate web developer with experience in building responsive, user-fri
 - **Tools:** Webpack, Babel, ESLint
 
 ### Back-End Development
-- **Languages:** Node.js, Python
+- **Languages:** Node.js
 - **Frameworks:** Express.js
-- **Databases:** MongoDB, MySQL
-- **APIs:** RESTful API, GraphQL
+- **Databases:** MongoDB
+- **APIs:** RESTful API
 
-### DevOps & Tools
+### Tools
 - **Version Control:** Git, GitHub
-- **CI/CD:** GitHub Actions
-- **Containerization:** Docker
-- **Cloud Services:** AWS, Heroku
 
 ## 📚 Education
 
