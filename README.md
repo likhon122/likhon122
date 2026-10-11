@@ -69,8 +69,3 @@ I am a passionate software developer from Kushtia, Bangladesh, specializing in b
   </a>
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=likhon122&label=Profile%20Views&color=0e75b6&style=flat" alt="likhon122" />
-</p>
-
