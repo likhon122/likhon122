@@ -58,21 +58,7 @@ I am a passionate software developer from Kushtia, Bangladesh, specializing in b
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 
-## 🏆 Featured Projects
-
-### 💬 [Chat Web Application](https://github.com/likhon122/Chat-app)
-A real-time communication platform designed to connect users instantly with friends and colleagues. 
-* **Tech:** React(v17), Redux-Toolkit, RTK Query, Tailwind CSS, Node.js, Express, MongoDB, JWT, Socket.io.
-* **Features:** Instant messaging, secure JWT authentication, and responsive UI.
-
-### 🛒 Car E-Commerce Platform
-A full-stack digital storefront for automotive sales with secure, integrated payment processing.
-* **Tech:** MERN Stack, Stripe API.
-* **Features:** Dynamic product listings, secure Stripe checkout, and scalable backend architecture.
-
----
 
 ## 📊 GitHub Analytics
 
@@ -88,6 +74,3 @@ A full-stack digital storefront for automotive sales with secure, integrated pay
   <img src="https://komarev.com/ghpvc/?username=likhon122&label=Profile%20Views&color=0e75b6&style=flat" alt="likhon122" />
 </p>
 
-<p align="center">
-  <i>Let's connect and build something awesome together! 🚀</i>
-</p>
